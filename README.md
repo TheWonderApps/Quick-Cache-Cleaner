@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Quick Cache Cleaner Logo](assets/icons/icon128.png)
+![Quick Cache Cleaner Logo](icon512.png)
 
 **🧹 Optimize your browsing experience with intelligent cache management**
 
